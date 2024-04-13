@@ -10,10 +10,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/vasyan-coder/ProfitableTogetherAndroid?color=A26749)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vasyan-coder/ProfitableTogetherAndroid?color=A26749)
 
-
-![Frame 2](https://github.com/ChaoticPost/QuizApp/assets/100674263/51112113-fdb6-4e1b-a9e7-e5d91e5acd30)
-
-
+<img width="1996" alt="мокап" src="https://github.com/vasyan-coder/ProfitableTogetherAndroid/assets/95854753/b82db728-0605-4714-b520-f58047e9ca3d">
 
 
 <!-- HEADER SECTION -->
@@ -53,6 +50,11 @@
 - [Dagger-Hilt](https://dagger.dev/hilt/) - библиотека инъекции зависимостей для Android, которая уменьшает количество ошибок, связанных с ручной инъекцией зависимостей в вашем проекте
     
 - [Coroutines](https://developer.android.com/kotlin/coroutines) - библиотека для работы с асинхронным кодом в Kotlin.
+    
+- [Flow](https://developer.android.com/kotlin/flow) - используется совместно с корутинами для потоков данных.
+    
+- [Coil](https://coil-kt.github.io/coil/compose/) - Библиотека для загрузки изображений.
+
 
 
 <!-- GETTING STARTED -->
@@ -107,10 +109,4 @@
 
 Поставьте ⭐️, если этот проект помог вам!
 
-
-
-    
-- [Flow](https://developer.android.com/kotlin/flow) - используется совместно с корутинами для потоков данных.
-    
-- [Coil](https://coil-kt.github.io/coil/compose/) - Библиотека для загрузки изображений.
 
