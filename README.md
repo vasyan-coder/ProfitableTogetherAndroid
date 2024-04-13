@@ -36,7 +36,7 @@
 
 Приложение разработано с использованием следующих технологий:
 
-- [Kotlin](https://kotlinlang.org/docs/reference/) - Kotlin - это кроссплатформенный статически типизированный язык программирования общего назначения с выводом типов. Kotlin рассчитан на полное взаимодействие с Java, и стандартная библиотека Kotlin в JVM-версии зависит от библиотеки классов Java, однако выделение типов позволяет сделать синтаксис языка более понятным.se
+- [Kotlin](https://kotlinlang.org/docs/reference/) - это кроссплатформенный статически типизированный язык программирования общего назначения с выводом типов. Kotlin рассчитан на полное взаимодействие с Java, и стандартная библиотека Kotlin в JVM-версии зависит от библиотеки классов Java, однако выделение типов позволяет сделать синтаксис языка более понятным.se
 - [Jetpack Components:](https://developer.android.com/topic/architecture?gclid=Cj0KCQjw8O-VBhCpARIsACMvVLOH1satX45o9f4PMQ4Sxr7bG9myl6-KZL9nYda8PJsHV7m2uJL8bzgaAmqiEALw_wcB&gclsrc=aw.ds)
     - [Jetpack Compose](https://developer.android.com/jetpack/compose?gclid=Cj0KCQjwhqaVBhCxARIsAHK1tiMMwHsxQ8Z25jyEdtLha9erq11wROoEfL6RqpGMprgbDTNuMO3_Ri8aAu5EEALw_wcB&gclsrc=aw.ds) - Современный инструментарий Android для создания нативных пользовательских интерфейсов. Он упрощает и ускоряет разработку пользовательского интерфейса на Android.
     - [View Model](https://developer.android.com/topic/libraries/architecture/viewmodel)- хранение и управление данными, связанными с пользовательским интерфейсом, с учетом жизненного цикла.
