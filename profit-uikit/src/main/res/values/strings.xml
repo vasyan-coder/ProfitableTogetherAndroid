@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="find_place_to_live">Найти жилье</string>
+    <string name="sign_in">Войти</string>
+    <string name="create_account">Создать аккаунт</string>
+    <string name="authorizatnion">Авторизация</string>
+    <string name="registration">Регистрация</string>
+    <string name="login_or_pass_incorrect">логин и пароль неверны</string>
+    <string name="email">E-mail</string>
+    <string name="email_empty_error">e-mail не может быть пустым</string>
+    <string name="email_error">e-mail некорректный</string>
+    <string name="password">Пароль</string>
+    <string name="password_length_error">длина пароля должна быть больше 7</string>
+    <string name="password_empty_error">пароль не может быть пустым</string>
+    <string name="password_registration_error">пароль должен содержать буквы и цифры</string>
+    <string name="something_was_wrong_error">что-то пошло не так</string>
+    <string name="email_and_password_empty_error">email и пароль не может быть пустым</string>
+    <string name="forgot_password">Забыл пароль?</string>
+    <string name="show_password">Показать пароль</string>
+    <string name="hide_password">Скрыть пароль</string>
+    <string name="sign_in_error">email или пароль неверны</string>
+    <string name="or">или</string>
+    <string name="dont_have_acc_sign_up">Нет аккаунта? Зарегистрируйся</string>
+    <string name="full_name">Полное имя</string>
+    <string name="full_name_error">Имя не может быть пустым</string>
+    <string name="company_policy">Политика CumПании</string>
+    <string name="self_description">Анкета о себе</string>
+    <string name="questionnaire_description">
+        Напишите несколько предложений о себе: что любите, чем увлекаетесь. Расскажите о своих
+        бытовых особенностях. Чем более подробно Вы заполните анкету, тем проще будет поиск соседа.
+    </string>
+    <string name="profile">Профиль</string>
+    <string name="search">Поиск</string>
+    <string name="favourite">Избранное</string>
+    <string name="chat">Чат</string>
+    <string name="start_chat">Начать чат</string>
+    <string name="reserve">Забронировать</string>
+    <string name="reserved">Забронировано</string>
+    <string name="logout">Выйти из аккаунта</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="visible_image_home">Изображается интерьер комнаты</string>
+    <string name="your_budget">Ваш бюджет ₽</string>
+    <string name="min_budget">От 0₽</string>
+    <string name="max_budget">До ₽</string>
+    <string name="roommates_count">Количество сожителей</string>
+    <string name="input_roommates_count">Введите желаемое кол-во сожителей</string>
+    <string name="location">Местоположение</string>
+    <string name="input_metro_station">Введите станцию метро</string>
+    <string name="search_description">Результатом поиска являются объявления в указанном диапазоне, с учётом вложений сожителей</string>
+    <string name="utility_bill">Оплата ЖКХ</string>
+    <string name="bail">Залог</string>
+    <string name="commissions">Комиссии</string>
+    <string name="prepayment_period">Предоплата</string>
+    <string name="rental_period">Срок аренды</string>
+    <string name="link_to_original_announce">Ссылка на оригинальное объявление</string>
+    <string name="i_want_to_live_here_too">Я тоже хочу тут жить:</string>
+    <string name="write_something">Напишите что-то о себе</string>
+    <string name="plug_hint">Войдите или Создайте аккаунт, чтобы продолжить</string>
+    <string name="favourite_hint">Здесь пока пусто
+        Добавьте объявление в Избранное или Забронируйте его</string>
+    <string name="link_to_chat">Ссылка на телеграмм</string>
+</resources>
